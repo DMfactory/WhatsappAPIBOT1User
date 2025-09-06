@@ -46,3 +46,7 @@ sudo apt install -y wget gnupg2 ca-certificates \
 
 Se sei su root, ricordati di usare --no-sandbox nei parametri Puppeteer (già incluso nel codice).
 
+Funzionalità:
+
+--reset dopo il nome del file resetta la sessione di whatsapp
+
